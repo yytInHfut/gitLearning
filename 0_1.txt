@@ -1,2 +1,4 @@
 The first file created to learn Git.
 I changed it.
+I linked my local-reporitory with  remote-repository
+ today.
